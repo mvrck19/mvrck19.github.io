@@ -7,4 +7,4 @@ layout: page
 
 <p>A true Sbinalist.</p>
 
-<p> :b: </p>
+:b: 
